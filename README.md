@@ -14,4 +14,4 @@ Please raise issues and pull requests for fixes and updates.
 4. [Service Orchestrator](https://github.com/InterviewReady/Low-Level-Design/tree/main/service-orchestrator)
 
 
-Head to [InterviewReady](https://get.interviewready.io/) for more low level design explanations.
+Checkout [InterviewReady](https://get.interviewready.io/) for more low level design explanations.
