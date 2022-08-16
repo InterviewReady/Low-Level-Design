@@ -11,4 +11,4 @@ Please raise issues and pull requests for fixes and updates.
 4. Service Orchestrator
 
 
-Head to [InterviewReady](https://get.interviewready.io/) for a detailed explanation.
+Head to [InterviewReady](https://get.interviewready.io/) for more low level design explanations.
